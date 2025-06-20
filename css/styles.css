@@ -1,0 +1,253 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+.header-nav {
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    font-size: 18px;
+    color: #2E2F42;
+
+}
+
+.logo {
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
+
+.logo-studio {
+    font-family: "Raleway", sans-serif;
+    color: #2e2f42;
+}
+
+.header-nav-list {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    color: #2E2F42;
+    font-size: 16px;
+}
+.header-nav-list-inform  {
+    color: #2e2f42;
+}
+.header-nav-list-inform:hover {
+    color: #404bbf;
+}
+.header-nav-list-inform:focus {
+    color: #404bbf;
+}
+/* Address start */
+.address {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.address-list {}
+
+.address-list-item-link:hover, 
+.address-list-item-link:focus
+{
+    color: #404bbf;
+}
+
+.address-list-item-link {
+    color: #434455;
+}
+
+
+/* Address end */
+
+/* Hero baner start */
+
+.hero-baner {
+    background-color: #2E2F42;
+    
+}
+.hero-baner-head {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.hero-baner-button {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    font-size: 16px;
+}
+.hero-baner-button:hover {
+    background-color: #404BBF;
+}
+.hero-baner-button:focus {
+    background-color: #404BBF;
+}
+
+/* Hero baner end */
+
+/*  benefits section start */
+.benefits {}
+
+.benefits-list {}
+
+.benefits-list-item {}
+
+.benefits-list-item-head {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2E2F42;
+
+}
+
+.benefits-list-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* benefits section end */
+
+/* our team strt */
+.our-team {
+    text-align: center;
+    background-color: #F4F4FD;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.our-team-head {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    background-color: #fff;
+}
+
+.our-team-list {
+    background-color: #FFFFFF;
+}
+
+.our-team-list-item {
+    background-color: #FFFFFF
+}
+
+.our-list-item-image {}
+
+.our-team-item-head {
+    font-weight: 500;
+    font-size: 20px;;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.our-team-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+    font-size: 16px;
+}
+
+/* our team end */
+
+/* our portfolio start */
+
+.our-portfolio {
+    background-color: #fff;
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
+.our-portfolio-head {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.our-portfolio-list {
+    background-color: #fff;
+}
+
+.our-portfolio-list-item {
+    background-color: #fff;
+}
+
+.our-portfolio-item-image {}
+
+.our-portfolio-item-head {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.our-portfolio-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-size: 16px;
+}
+
+/* our portfolio end */
+/* footer */
+.footer {
+    background-color: #2E2F42;
+
+}
+
+.footer-logo-studio {
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #F4F4FD;
+}
+
+.footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
